@@ -1,4 +1,6 @@
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+
 Package mflag (aka multiple-flag) implements command-line flag parsing.  
 It's an **hacky** fork of the [official golang package](http://golang.org/pkg/flag/)
 
